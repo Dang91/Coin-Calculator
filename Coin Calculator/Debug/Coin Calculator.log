@@ -1,0 +1,7 @@
+﻿  Coin Calculator.cpp
+D:\Computer Dev\Computer Prog. I\Coin Calculator\Coin Calculator\Coin Calculator.cpp(33,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Dev\Computer Prog. I\Coin Calculator\Coin Calculator\Coin Calculator.cpp(42,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Dev\Computer Prog. I\Coin Calculator\Coin Calculator\Coin Calculator.cpp(51,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Dev\Computer Prog. I\Coin Calculator\Coin Calculator\Coin Calculator.cpp(60,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Computer Dev\Computer Prog. I\Coin Calculator\Coin Calculator\Coin Calculator.cpp(69,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Coin Calculator.vcxproj -> D:\Computer Dev\Computer Prog. I\Coin Calculator\Debug\Coin Calculator.exe
